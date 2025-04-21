@@ -18,8 +18,8 @@
 <p align="center">
 <!--   <img height="180em" src='https://github-readme-stats-sigma-five.vercel.app/api?username=Karhdo&show_icons=true&theme=tokyonight'>&emsp;
   <img height="180em" src='https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Karhdo&layout=compact&langs_count=14&hide=jupyter%20notebook&html&title_color=71A4FC&text_color=3ABCAD&bg_color=1A1B27'> -->
-  <img src='https://github.com/Karhdo/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only'>&emsp;
-  <img src='https://github.com/Karhdo/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only'>
+  <img src='https://github.com/spartan-khanhdo/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only'>&emsp;
+  <img src='https://github.com/spartan-khanhdo/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only'>
 </p>
 
 ## 🔧 Technologies & Tools
@@ -42,8 +42,8 @@
 ## 📈 My Activities
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Karhdo/Karhdo/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Karhdo/Karhdo/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Karhdo/Karhdo/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/spartan-khanhdo/spartan-khanhdo/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/spartan-khanhdo/spartan-khanhdo/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/spartan-khanhdo/spartan-khanhdo/output/github-contribution-grid-snake.svg">
 </picture>
 
